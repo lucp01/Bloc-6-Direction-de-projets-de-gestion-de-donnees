@@ -7,9 +7,9 @@ URL of the application: https://smart-art-class.herokuapp.com
 
 Vidyard link: https://share.vidyard.com/watch/xYtdsMze9Crv4q19VTyciM?
 
-Shared folder on Google drive : https://drive.google.com/drive/u/1/folders/1GekFHUPpdgYOqLhHCSe0A-6NwD_Ci-bd
+Shared folder on Google drive: https://drive.google.com/drive/u/1/folders/1GekFHUPpdgYOqLhHCSe0A-6NwD_Ci-bd
 
-Demoday YouTube link : https://www.youtube.com/watch?v=PH8XaK99Smc (00’59’30 à 01’11’00)
+Demoday YouTube link: https://www.youtube.com/watch?v=PH8XaK99Smc (00’59’30 à 01’11’00)
 
 To write the code we have mainly used and custom several notebook (lessons & exercices) we have worked on at Jedha, as well code from Ela Kapoor (https://www.kaggle.com/elakapoor) and also code fragments, tips, advices, help, from the web (stackoverflow etc….). 
 
