@@ -1,4 +1,5 @@
 Luc Parat - Full Stack 2022 - Jedha
+
 Certification : Concepteur - Dévelopeur en Science des données
 # Bloc-6-Direction-de-projets-de-gestion-de-donnees
 
